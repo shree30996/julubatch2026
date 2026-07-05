@@ -1,0 +1,21 @@
+version controlling 
+git: https://git-scm.com/install/windows
+GitHub: https://github.com/
+
+iac
+
+terraform: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
+
+
+https://developer.hashicorp.com/terraform/install
+
+
+docker : https://docs.docker.com/desktop/setup/install/windows-install/
+docker hub account: https://hub.docker.com/
+
+
+aws account: https://aws.amazon.com/console/
+aws cli: https://docs.aws.amazon.com/streams/latest/dev/setup-awscli.html
+
+
+visual studio code: https://code.visualstudio.com/download?_exp_download=fb315fc982
