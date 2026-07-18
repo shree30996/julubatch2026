@@ -14,3 +14,9 @@ ssh method for authenitcation
 
 
 4: try to create the branches dev,qa,prod and apply the branching policies
+
+
+18th July
+1. create a self hosted runner laptop
+2. in which scenerios you should use self hosted and github runners
+3. create a artifac and check if you can see packages
